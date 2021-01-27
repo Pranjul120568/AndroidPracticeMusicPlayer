@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PERMISSIONS</string>
+    <string name="go_to_another_activity">GO TO ANOTHER ACTIVITY</string>
+    <string name="get_network_state">GET NETWORK STATE</string>
+</resources>
